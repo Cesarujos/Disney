@@ -110,7 +110,8 @@
   .section-buscador h2 {
     width: 100%;
     font-family: 'Disney';
-    font-size: 5rem;
+    font-size: 4.5rem;
+    line-height: 50px;
     color: white;
     text-align: center;
     margin-bottom: 30px;
